@@ -1,6 +1,6 @@
 {
   "name": "postcss-at-js",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "PostCSS plugin to embed JavaScript in CSS for preprocessing",
   "homepage": "https://github.com/uenoB/postcss-at-js#readme",
   "repository": {
